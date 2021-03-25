@@ -18,7 +18,7 @@ LOCALLY : RUN THE SPRING BOOT APPLICATION in LOCAL
 Sample Endpoint : http://localhost:8080/api/getFlights/DUB/EDI/25-20-2021/25-20-2021/1
 
 2.) LOCALLY USING DOCKER :
-3.
+
 docker run -p 8080:8080 bukane/flight-details-service
 
 
